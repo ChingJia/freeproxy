@@ -1,2 +1,2 @@
 # freeproxy
-freeproxy with scrapy
+collectiong free proxy with scrapy
